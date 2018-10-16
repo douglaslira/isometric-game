@@ -1,0 +1,25 @@
+{
+  "name": "my-game",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Douglas Lira <douglas.lira.web@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^2.0.0",
+    "moment": "^2.13.0"
+  },
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
+
